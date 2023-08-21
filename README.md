@@ -9,6 +9,7 @@ The store's database provides information about the customers, emoployees, artis
 ## Database and Tools
 
 Postgre SQL
+
 PgAdmin4
 
 ## SCHEMA DIAGRAM
